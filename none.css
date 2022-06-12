@@ -1,0 +1,9 @@
+body {
+  display: none;
+  background-color: rgb(255, 232, 121);
+}
+
+
+body .none{
+  display: block;
+}

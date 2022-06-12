@@ -19,9 +19,13 @@ body{
   animation-direction: alternate;
 }
 
-header{
+header {
   text-align: center;
   font-size: 2rem;
+}
+
+.none{
+  display: none;
 }
 
 .title{
