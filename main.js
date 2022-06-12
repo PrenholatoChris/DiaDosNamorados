@@ -1,12 +1,6 @@
-// window.onload = function(){
-//   test()
-// }
-// function test(){
-// } 
 let params = new URLSearchParams(window.location.search.substr(1))
 let show = params.get("a")
 head = document.getElementsByTagName('head')[0]
-
 
 if(show =="1"){
   head.removeChild(head.children[4])
