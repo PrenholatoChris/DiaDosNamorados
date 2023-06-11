@@ -1,0 +1,4 @@
+body:nth-child(n+1) {
+  display: none;
+  background-color: rgb(255, 232, 121);
+}
